@@ -1,0 +1,8 @@
+/* Add '@import url('/userContent/customized.css');' to the very beginning of the theme.css to include this file */
+
+#header .logo:before {
+  font-size: 25px;
+  margin-left: 140px;
+  content: "robert koch institut-ci";
+  color:  "#ffffff";
+}
