@@ -1,0 +1,8 @@
+/* Add '@import url('/userContent/customized.css');' to the very beginning of the theme.css to include this file */
+
+#header .logo:before {
+    font-size: 25px;
+    margin-left: 70px;
+    content: "Goodbye wolf & the Android team";
+    color:  "#FFFFFF";
+}
