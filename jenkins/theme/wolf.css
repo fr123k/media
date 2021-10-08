@@ -1,4 +1,4 @@
-@import url('/userContent/wolf-customized.css'); @import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500,300); @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,500,300); @keyframes a {
+@import url('https://media.fr123k.uk/jenkins/theme/wolf-customized.css'); @import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500,300); @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,500,300); @keyframes a {
     0% {
         transform: rotate(0deg)
     }
